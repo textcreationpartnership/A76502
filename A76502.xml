@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Hexham in Northumberland, upon the publick occasion and fast, being the 26th of June, 1696. By William Bewick, late of St. John's College, Cambridge</title>
+            <author>Bewick, William, 1670 or 71-1747?</author>
+         </titleStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76502</idno><idno type="EEBO-CITATION">99895400</idno>
+  <idno type="VID">152834</idno>
+  <idno type="EEBO-PROQUEST">2240946540</idno>
+  
+            <idno type="STC">Wing B2193A</idno>
+            <idno type="STC">ESTC R210300</idno>
+            <idno type="PROQUEST">99895400</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895400e"/>
+            <note>(EEBO-TCP ; phase 2, no. A76502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152834)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2325:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Hexham in Northumberland, upon the publick occasion and fast, being the 26th of June, 1696. By William Bewick, late of St. John's College, Cambridge</title>
+                  <author>Bewick, William, 1670 or 71-1747?</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by E. Whitlock near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152834:1"/>
+            <p> A SERMON Preached at HEXHAM IN <hi>Northumberland,</hi> UPON THE Publick Occasion and FAST, being the 26<seg rend="sup">th</seg> of <hi>JUNE,</hi> 1696.</p>
+            <p>By <hi>WILLIAM BEWICK,</hi> late of St. <hi>John</hi>'s College, <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be Sold by <hi>E. Whitlock</hi> near <hi>Stationers-Hall.</hi> 1696.</p>
+            <pb facs="tcp:152834:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152834:2"/>
+            <head>TO The Right Worshipful Sir <hi>William Blackett,</hi> Baronet;</head>
+            <p>The Worshipful</p>
+            <list>
+               <item>Esquires;
+<list>
+                     <item>
+                        <hi>John Blakiston,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Bewick,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Holmes,</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Fenwick,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Allgood,</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>The Reverend and Learned
+<list>
+                  <item>Mr. <hi>Ellison,</hi> Vicar of <hi>Newcastle upon Tine,</hi>
+                  </item>
+                  <item>Mr <hi>Allgood,</hi> Rector of <hi>Simondsburn,</hi>
+                  </item>
+                  <item>Mr. <hi>Bates,</hi> Rector of <hi>Whalton</hi> in <hi>Northumberland,</hi> and Minister of St. <hi>John</hi>'s in the aforesaid <hi>Newcastle,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With all the rest of His Gracious Benefactors;</p>
+            <p>THIS SERMON Is <hi>Humbly</hi> by the AUTHOR Dedicated.</p>
+            <pb facs="tcp:152834:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:152834:3"/>
+            <epigraph>
+               <bibl>PSAL. LXV. 2.</bibl>
+               <q>O Thou that hearest Prayer, unto Thee shall all Flesh come.</q>
+            </epigraph>
+            <p>GOD the Lord is every where present, and hears the Prayers of all People, but especially ready to deliver his Servants, who devoutly call upon his holy Name; wherefore it is not only our Duty, to Address the Lord, that <hi>heareth Prayer,</hi> but our great Advantage; and therefore unto Him should <hi>all Flesh came.</hi>
+            </p>
+            <p>From the Words, I shall take occasion to shew,
+<list>
+                  <item>I. <hi>That it is our Duty to Pray.</hi>
+                  </item>
+                  <item>II. <hi>That GOD hears our Prayers.</hi>
+                  </item>
+                  <item>III. <hi>That Prayer is a Special Part of His Worship.</hi>
+                  </item>
+                  <item>IV. <hi>The Efficacy and Power of Prayer, which the best of Persons have used.</hi>
+                  </item>
+                  <item>V. <hi>The Object of our Prayers, GOD alone.</hi>
+                  </item>
+                  <item>VI. <hi>The Subject of them, Good and Evil; Good, for which we pray; Evil, against which we petition; the former of which is called Supplication; the later, Deprecation.</hi>
+                  </item>
+                  <item>VII. <hi>The manner of our Prayers, humbly and ardently, with Faith and full Hope on God for the Fruits of them.</hi>
+                  </item>
+               </list>
+            </p>
+            <div n="1" type="part">
+               <head>I. <hi>That it is our Duty to Pray.</hi>
+               </head>
+               <p>The very Light of Nature directs and obliges us there<g ref="char:EOLhyphen"/>unto, telling us, We are His Creatures, and depend upon
+<pb n="2" facs="tcp:152834:4"/> God; that He is our Creator, and continual Preserver; that all we have is elsewhere, and not on ourselves; so that we should with all Thankfulness look up unto Him, unto whom we are indebted for all that is good. This we must confess, unless we forfeit the Prerogative Royal of Reasonable Creatures: This we must do, being but our Duty to Him that is Absolute King, Proprietary, and Lord of all by Creation.</p>
+               <p>We may reasonably conclude, we were not sent into the World for nothing, not made to be idle, nor delegated on so mean an Embassy as the Soldiers of that unwise Em<g ref="char:EOLhyphen"/>peror, who being furnish'd with all Military Accoutrements, were employ'd to gather Shells upon the Sea-shore.</p>
+               <p>We are each of us a little World, upon which God has stamp'd his own Image more perfectly than the greater, therefore much more engaged to his Gracious Goodness. Now, seeing the Heavens declare the Glory of God, and the Firmament sheweth his Handy-work, Frost, and Ice, and Snow are warm in their Devotions, and praise Him, shall not we offer up our Prayers unto Him, to whom we are more than they obliged; we, who are Reasonable Crea<g ref="char:EOLhyphen"/>tures, like unto the Angels and God himself?</p>
+               <p>Methinks then we should come voluntarily unto God in Prayer; Nature and Reason teacheth this Duty, no need of another <hi>Index</hi> to discover it to us, no <hi>Exhortation</hi> to al<g ref="char:EOLhyphen"/>lure, nor <hi>Command</hi> to make way for it, if we were graci<g ref="char:EOLhyphen"/>ous to practise according to our Knowledge; but since there is a Command of God for it, that is a superinduc'd Obligation, and makes us more careful to do our Duty, by laying a double Tye on us; which, how great it is, con<g ref="char:EOLhyphen"/>sider, when Nature dictates, what the King of Heaven com<g ref="char:EOLhyphen"/>mands.</p>
+               <p>The Majesty of a King claimeth the Loyalty of a Sub<g ref="char:EOLhyphen"/>ject, and as we acknowledge his Authority, we must submit
+<pb n="3" facs="tcp:152834:4"/> unto his Will, much more to the Heavenly King of all Kings, who commands nothing, but what were most fit for us to chuse.</p>
+               <p>If a great Worldly man bid you go, you will run, tho' you are not sure to get any thing, but your Labour for your travail; you will reckon yourselves highly honour'd to be Servants, nay, Slaves, to such a man's Humours, tho' they proceed from no sound Temper, or good Constituti<g ref="char:EOLhyphen"/>on; but when the great God of Heaven and Earth com<g ref="char:EOLhyphen"/>mands you to gird yourselves, and set about this Duty, you will dispute the matter, tho' the Command must needs be good, because GOD's, and is clearly written, as with a Sun<g ref="char:EOLhyphen"/>beam.</p>
+               <p>
+                  <hi>Call upon me,</hi> saith the Lord, <hi>Psal.</hi> 49. <hi>Watch and pray, Mark</hi> 13. <hi>In Faith, without wavering,</hi> saith Bishop <hi>Ʋsher; in Truth, without Guile; in Humility, without Pride; in Zeal, without Cooling; in Constancy, without Fainting, to the end.</hi>
+               </p>
+               <p>Prayer is the good Instrument God has commanded to use, by it to convey the Blessings which he in the course of his Providence has appointed, and is pleased at any time to bestow and conferr on us: Following therefore the Apostle's Precept and Direction; <hi>In all things, with Prayer make your Requests known unto God.</hi>
+               </p>
+               <p>Here are the commanding words, not of Melancho<g ref="char:EOLhyphen"/>lick men, nor Brain-sick persons, but the sober Dictates of the Holy Ghost, whom you should hear and obey.</p>
+               <p>We should all therefore set about this great Duty of <hi>Prayer,</hi> our Hearts should be restless till we come unto God: Unless we be worse than the Heathens, we shall not neglect it, which <hi>meer Nature</hi> did teach them to use; their Goodness advise others to practise. Hear <hi>Seneca; Bonus vir sine Deo nemo est; No man is good without God:</hi> unto whom, by Prayer, he is most effectually united. And therefore says <hi>Eripides,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>We use to Pray,</hi>
+                  <pb n="4" facs="tcp:152834:5"/>
+                  <hi>for it is from this our Labour prospers.</hi> Whence <hi>Pythagoras</hi> in his Golden Verses, and these words: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, exhorts Man to come and pray unto God, for a Blessing on his Work.</p>
+               <p>And indeed, it seems unreasonable this Duty should be slighted, or our Business at any time by us begun, with<g ref="char:EOLhyphen"/>out <hi>Prayer</hi> first of all, and calling for a Blessing from God upon it: For, as <hi>Plato</hi> elegantly describes God <hi>Mens aeterna, Causa boni in natura,</hi> the Eternal Spirit from whom our Blessings come; so He is worthy to be called upon for them. The doing of which speaks much to the com<g ref="char:EOLhyphen"/>mendation of <hi>Scipio Africanus,</hi> if the Story be true of him, concerning whom we read, <q rend="margQuotes">That he, though an Ethnick, ever before he set himself upon the undertak<g ref="char:EOLhyphen"/>ing Concerns, used to enter the Capitol, to submit his Projects to the Judgment of the Gods, and implore their Aid, for the good Success of what he took in hand.</q> And this is what is done to the True God by every good man, who, according to <hi>Hierocles,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>joyns Endeavours to Prayers, and Prayers to En<g ref="char:EOLhyphen"/>deavours.</hi>
+               </p>
+               <p>Wherefore we have reason to be much asham'd, if we neglect so great a Duty, which the <hi>Pagans,</hi> by the Light of Nature, did know, practise, and advise Men to. To be dispossessed of this, convinces us to be truly Devils in<g ref="char:EOLhyphen"/>carnate, abandon'd by the Justice of God, and pass'd in<g ref="char:EOLhyphen"/>to Swine, of which Creatures it is said, <hi>They look every way but upwards unto Heaven.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>The Lord hears our Prayers.</hi>
+               </head>
+               <p>Not a Word, not a Thought, but the Lord knows be<g ref="char:EOLhyphen"/>fore they are spoken or thought of: The Womb of our Conceptions, and Closet of our Prayers, are as clear to
+<pb n="5" facs="tcp:152834:5"/> the All-seeing Eye of God, as the Canopy of Heaven to us, with our Eyes open'd upwards: So that though our Prayers be private to Men, yet the Lord, who <hi>seeth in secret,</hi> heareth likewise, and shall <hi>reward us openly.</hi>
+               </p>
+               <p>
+                  <hi>Hannah</hi> called upon God, when her Voice was not heard, 1 <hi>Sam.</hi> xiii. And <hi>Moses</hi> cried unto the Lord, when he spoke not a word, <hi>Exod.</hi> xiv. 15.</p>
+               <p>Hereto we may add that of St. <hi>Cyprian, Deus audit vocem cordis; God hears the Voice of the Heart.</hi>
+               </p>
+               <p>But some with those in <hi>Job</hi> may argue, and debate, <hi>How doth God know? Can He judge through the dark Cloud? Can He see our Hearts at such a distance, or hear our Cries afar off?</hi>
+               </p>
+               <p>Understand, ye Brutish among the People, and <hi>you Fools when will you be wise?</hi> He that is the Lord of Hosts, can<g ref="char:EOLhyphen"/>not He help? He that made the Eye, cannot He see? And He that planted the Ear, shall not He hear?</p>
+               <p>Foolish therefore, as well as Prophane, is the Conceit of <hi>Epicurus,</hi> who fancies God to be without Power, without Arms, above Fear himself, and as little to be fear'd, placing him between the Orbs solitary and idle, out of the reach of Mortals, not minding our Concerns, nor so much as hearing our Prayers.</p>
+               <p>And with as little Sence did the Statuary make <hi>Jove</hi>'s Idol, in <hi>Crete,</hi> without Eyes, and without Ears, if he de<g ref="char:EOLhyphen"/>sign'd in it the Image of the True GOD; for otherwise the Statue might well enough serve such a Poetick God as <hi>Jove,</hi> or that of <hi>Epicurus</hi> mention'd before.</p>
+               <p>Since then God hears our Prayers, our Words, and Thoughts, without the calves of our Lips, and understands by what Springs they all move, before we date them, how careful should we be, that they be serious, devout, and good, according to his Will; and in so doing, we shall not only perform a reasonable, but most acceptable Ser<g ref="char:EOLhyphen"/>vice
+<pb n="6" facs="tcp:152834:6"/> unto God. Which leads me to my Third Parti<g ref="char:EOLhyphen"/>cular.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>Prayer is a Special Part of God's Worship.</hi>
+               </head>
+               <p>Prayer is the turning of a pious <hi>Mind</hi> from the World unto God; the Confluence of all Good, and Complement of all Happiness; it is a flight from Earth, and pursuit af<g ref="char:EOLhyphen"/>ter Heaven; it is that which draws us nighest to God of any thing in Earth, and which the Lord doth most delight in. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the best Work, and principal part of his Service. There may be in Heathens other Virtues, as Temperance in <hi>Tu<g ref="char:EOLhyphen"/>bero,</hi> Mansuetude in <hi>Pomponius Atticus, &amp;c.</hi> but he that prays well, is a good Christian. Hearing, Reading, Meditating, and Conferring about the Word of God, are prime Lumi<g ref="char:EOLhyphen"/>naries, and Parts of Christianity; but true and fervent Prayer exceeds them all, it being, I may so speak, the Life of Devotion, and Spirit of Religion.</p>
+               <p>Hereby we please God, better than with whole Heca<g ref="char:EOLhyphen"/>tombs of Animal Sacrifices, or Rivers of Oyl, the Odour thereof fragrant to Him as the choicest Fumes of <hi>Arabia</hi> to Men; the taste delightful, like the Spices of the World, sweet as the Honey, or the Honey-comb. <hi>Cant.</hi> iv. 11. <hi>The lips of thy Spouse, Lord! drop as the Honey, or the Honey-comb: Milk and Honey are under her lips.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Of the Efficacy and Power of Prayer, which the best of Persons have used.</hi>
+               </head>
+               <p>It is of wonderful Power and Efficacy, if it be well and skilfully handled. It has a potent Charm against Evil, and Prevalence towards Good; being duly apply'd, a certain Antidote against Sin, and Means to obtain God's Blessings.
+<pb n="7" facs="tcp:152834:6"/> Some do ascribe, but falsly, great Vertue to a piece of Wood fashion'd in the form of a Cross, which this really has and is the true Holy-water, whereby Devils are cast out: As in <hi>Rome,</hi> when a Dictator was created, all other Authority was for that time suspended. So, whilst Prayer has possession of our Souls, all Evils are either out of doors, or so compos'd, that they do not disturb us; but then our Prayers must not be unforesighted, nor ungoverned, like those monstrous People <hi>Pliny</hi> speaks of, whose Feet go back<g ref="char:EOLhyphen"/>ward, and their Eyes behind; they must be right and streight, by which position, as the Haven to the Mariner in a great Tempest, or an Inn to the Traveller in stormy weather, so will they yield Comfort and Tranquility to Man, in the Waves and Winds of his Troubles.</p>
+               <p>This is it the best of Persons have used, and some of its excellent Forms they penn'd, we find recorded in Scriptures, as of <hi>Moses, Daniel, David, Nehemiah,</hi> St. <hi>Paul,</hi> and our Sa<g ref="char:EOLhyphen"/>viour, in whom did the depth of <hi>Wisdom,</hi> and fulness of <hi>Power</hi> dwell.</p>
+               <p>The Effects of it have been so extraordinary, that none would believe, did not the Holy Ghost bear witness unto the Truth.</p>
+               <p>
+                  <hi>Nehemiah</hi> thereby repair'd the Breaches and Walls of <hi>Je<g ref="char:EOLhyphen"/>rusalem;</hi> this turned the Red-Sea into dry Land, for <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> and the <hi>Israelites</hi> to pass over: But as for the <hi>Egyptians</hi> that did not call upon the Name of the Lord, they were drowned in the Sea, and, as <hi>Orasius,</hi> an old Author, tells us, the prints and footsteps of their Chariots, Horses, and Men were a long time after to be seen on the Shore, and in the Depth. The Prayers of the Righteous have Com<g ref="char:EOLhyphen"/>mand over the Sky: Hereby did <hi>Elias</hi> bottle up the Rain in their Clouds, and threw them out at his pleasure, so that the smoaking showers came down thick and close, to be cup'd in the Valleys, and make the Hills overflow with
+<pb n="8" facs="tcp:152834:7"/> full brimmers of the same. They pierce the Firmament; <hi>Joshua</hi> therewith put the Sun to a stand, and at <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi>'s Prayer the same went back. <hi>Solomon</hi> calls them <hi>a strong Tower of Defence;</hi> and indeed they are a sure Shield to those that use them right against the Enemy: Without these, our Strength becomes weak, and with them our Weakness strong. When <hi>Moses</hi> let down his Hands, and did not pray, the <hi>Amalekites</hi> overcame; but when <hi>Moses</hi> in Prayer lift up his Hands, then <hi>Israel</hi> prevail'd.</p>
+               <p>It is needless here to add Human Testimonies and Exam<g ref="char:EOLhyphen"/>ples, to prove the great Efficacy and wonderful Power of Prayer; I shall not therefore cite St. <hi>Austin</hi>'s Conversion thereby, nor tell how a whole <hi>Roman</hi> Army, parboil'd with Heat, and ready to dye with extream Thirst, was miraculously preserv'd by cool Rains, brought down from Heaven with this Hand; whilst Hail-fire, in their sight, con<g ref="char:EOLhyphen"/>sumed the Enemy, not calling on God.</p>
+               <p>Its Efficacy and Power [I had almost said omnipotent] so great, that nothing is thought too difficult for it; well handl'd by good Persons, its use so excellent, that the grea<g ref="char:EOLhyphen"/>test and best Persons [as you see] have not disdained to practise so Heavenly an Employment, thinking it their most Reasonable Service to pay unto God, to whom they often prayed; which is my next Particular.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>The Object of our Prayers, GOD alone.</hi>
+               </head>
+               <p>We must pray to God alone. We may well break forth with the <hi>Psalmist,</hi> and say, <hi>Whom have we in Heaven but thee, O Lord?</hi> None at all to direct our Prayers to, none else to hear us, none else in Heaven: but God to assist us; and therefore this is the Confidence we have in him, that if we ask any thing of him according to his Will, he hear<g ref="char:EOLhyphen"/>eth us; and that whosoever shall call on his Name, shall
+<pb n="9" facs="tcp:152834:7"/> be deliver'd; But, in what part of Scripture are we com<g ref="char:EOLhyphen"/>manded, exhorted, or suffer'd, by President and Example, to call upon any else to save us, and do us any good?</p>
+               <p>Tho' <hi>Moses</hi> and <hi>Elias</hi> be together with God on the Mount, yet the still Voice from Heaven speaketh of none but Christ, hear ye Him? We are commanded to fear the Lord our God, and to serve Him, without mention of any other Person.</p>
+               <p>The <hi>Heathens</hi> had a Notion of <hi>Daemons</hi> negotiating Hu<g ref="char:EOLhyphen"/>man Affairs with the Supreme God, from whence the ido<g ref="char:EOLhyphen"/>latrous Practice among the <hi>Papists,</hi> in Praying to Saints, has sprung; so that the Blood of Christ is counted a vile thing.</p>
+               <p>God alone, the Father, Son, and Holy Ghost, is to be prayed to the Trinity in Unity, and Unity in Trinity: No Angels, nor Saints; for the Scriptures do not warrant us, themselves reject it. To what purpose are our Prayers to the Dead, who can neither hear, nor help us? nor will God accept of any other Mediator, but his own Son, re<g ref="char:EOLhyphen"/>commended to us in the Scriptures.</p>
+               <p>But, to step aside from this Field of Controversie, and pass to the Subject of our Prayers, or what we must pray for.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>The Subject of our Prayers is Good and Evil; Good, for which we pray; Evil, against which we petition: the former of which is called Supplication, the later Depre<g ref="char:EOLhyphen"/>cation.</hi>
+               </head>
+               <p>Of the <hi>First, Supplication.</hi> And,</p>
+               <p>
+                  <hi>1st,</hi> We must pray for the substantial Blessings of the Soul, the <hi>Fear of God,</hi> and <hi>Heavenly Wisdom,</hi> which <hi>passeth all Ʋnderstanding,</hi> an upright Heart, Grace, and Strength to <hi>work out our Salvation with fear and trembling;</hi> for Pardon
+<pb n="10" facs="tcp:152834:8"/> of our Sins, the Love of Christ, the <hi>Kingdom of God, and his Righteousness,</hi> the Peace of <hi>Jerusalem,</hi> inward and hea<g ref="char:EOLhyphen"/>venly Comfort: All which, according to the Proverb,—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, may be purchas'd by our Prayers, and are 'specially to be sought after; without them all things else are Vanity and Vexation of Spirit, painted Grapes for the Fruits of <hi>Paradise.</hi>
+               </p>
+               <p>
+                  <hi>2dly,</hi> We may pray likewise for the Necessaries of this Life in Subordination to the former; for tho' the things be not good in themselves, yet still a <hi>Viaticum</hi> is necessary; for we be passing through the Wilderness of this World, from the Womb and <hi>Egypt</hi> of Sin, towards the Heavenly and Happy <hi>Canaan:</hi> And, seeing <hi>Manna</hi> from Heaven is not expected without a Miracle, we must have and be content with the Flesh-pots of <hi>Egypt.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> Of <hi>Deprecation.</hi>
+               </p>
+               <p>We must Deprecate, and Pray against all manner of Evil, whether it be the Evil of <hi>Sin,</hi> or the Evil of <hi>Punishment.</hi>
+               </p>
+               <p>
+                  <hi>1st,</hi> Against the Evil of <hi>Sin.</hi>
+               </p>
+               <p>That it may not come nigh our Dwelling, that our Hearts may not be imbitter'd by this dead Water of <hi>Ma<g ref="char:EOLhyphen"/>riana,</hi> that we take heed unto our ways; or if we do slip, our Offences may consist with our Infirmities, not gross, numerous, nor unrepented of; that as our original and pre<g ref="char:EOLhyphen"/>ceeding Sins are washed away in the <hi>Water</hi> of <hi>Jordan,</hi> by Baptism, so the after and actual Pollutions of our Hands may be wiped away by the Blood of Christ in his Fellow<g ref="char:EOLhyphen"/>ship.</p>
+               <p>
+                  <hi>2dly,</hi> Against the Evil of <hi>Punishment.</hi>
+               </p>
+               <p>That the Lord would be pleased to heal our Sorrows, and take away our Judgments, that the Evils present may not hurt us, nor those that threaten come to pass to do us any Harm, but that the Lord would in his Mercy be plea<g ref="char:EOLhyphen"/>sed
+<pb n="11" facs="tcp:152834:8"/> to deliver us from all Evil, either in this Life, as Po<g ref="char:EOLhyphen"/>verty, Disgrace, Sickness, Pestilence, Famine, Factions, Wars, Conspiracies, Rebellions, Assassinations, or other Evils, which may happen on ourselves, the King, or the Nation, and so on ourselves, because on the King or the Nation; or in the other Life, everlasting and Hell-fire. And this He will do, if we pray to him as we ought: which shews me my seventh and last Particular, <hi>viz.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>The manner of our Prayers, humbly and ardently, in Faith and full Hope on God for the Fruits of them.</hi>
+               </head>
+               <p>Man is not moved as Engines, by Violence; nor as irra<g ref="char:EOLhyphen"/>tional Animals, by Instinct; nor attracted, as Steel by the Load-stone, but drawn by the Light of the Holy Spirit in the <hi>Mind,</hi> and Consent of the <hi>Will;</hi> who, if he move right, must do it towards God by Prayer, which He has conse<g ref="char:EOLhyphen"/>crated for the best way to come unto him.</p>
+               <p>But we must do that too according to <hi>His Will,</hi> Pray so as we ought in the Holy Ghost, and in the Spirit. Never was any loving and kind Mother more willing that her full Breasts should be suck'd by her sweet and tender Infant, than our Blessed God is, that we should put up our Prayers unto him, to derive from his fulness; but we must do it in his own Method and Manner, and then,</p>
+               <p>Tho' we be little vile Creatures, yet he will deal with us not according to our Baseness, but according to the Riches of his Power, with the Liberal Hand of his high Majesty. As,</p>
+               <p>
+                  <hi>Alexander,</hi> who when one of his Favourites asked the King a Pension for his Service, gave him a whole City; which the Petitioner modestly refusing as too much, the King answer'd, <hi>If it was too much for him to receive, it was not too much for him, being the great</hi> Macedonian <hi>King, and Conqueror of the World, to give.</hi>
+               </p>
+               <pb n="12" facs="tcp:152834:9"/>
+               <p> So will the Lord, I say, deal with us, if we seek unto him as we ought; he will give as a King gives, with the liberal hand of the Most High, not according to our Un<g ref="char:EOLhyphen"/>worthiness or Demerits, but amply and superabundantly, even a strong City, the Heavenly <hi>Jerusalem.</hi>
+               </p>
+               <div type="section">
+                  <head>On the contrary;</head>
+                  <p>If we call not on Him as we ought, nor mind this Duty, to do it, we shall receive none of his precious Gifts, nor have his Comforts: In the Streets of Captivity shall then our Voice be heard; we shall cry out, and weep with <hi>Ra<g ref="char:EOLhyphen"/>chael,</hi> not to be comforted, but the Lord will <hi>laugh at our Calamity, and mock when our Fear cometh,</hi> because we did not pray unto the Lord, or our Prayers were deform, like the dashes of irregular Waves in the <hi>Euripus,</hi> or the whistling of Winds in a <hi>Wood.</hi> Therefore, that you may pray acceptably,</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>First,</hi> Pray humbly.</head>
+                  <p>It is the good Observation of <hi>Aristotle,</hi> we should han<g ref="char:EOLhyphen"/>dle Divine Matters with Modesty and Reverence. Now <hi>Prayer</hi> being the most substantial part of Divine Worship, shall we approach it otherwise? As God takes no Delight in the Sacrifice of Beasts, or in the Pictures of Gold and Silver, but in <hi>Prayer,</hi> so He would have it perform'd with an holy and submissive Will, otherwise we shall pray fond<g ref="char:EOLhyphen"/>ly, and in vain: without Humility they will not profit, fly they like <hi>Xerxes</hi>'s Arrows, most numerous and thick, they may well darken our Service, they will never strike the Sun of Righteousness graciously to affect and hear us.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Secondly,</hi> Pray ardently.</head>
+                  <p>As we must pray in <hi>Humility,</hi> which can never descend too low, so with our Affections, which can never ascend too high; no Bound or Measure must be set unto them, but with all our united Powers, all the Heart, and all the
+<pb n="13" facs="tcp:152834:9"/> Soul, with all the Mind, and with all the Strength, pray unto him. We must wrestle with God in Prayer, and of<g ref="char:EOLhyphen"/>fer as it were an holy Violence to the King of Heaven. To be lukewarm in Religion, is the black Character of <hi>Laodicea;</hi> therefore let that be far from being justly im<g ref="char:EOLhyphen"/>puted unto us, and our Prayers the best part of our Ser<g ref="char:EOLhyphen"/>vice. Ardent Desires, like <hi>Elijah</hi>'s fiery Chariot, should ravish us to Heaven and the Presence of God, otherwise we shall not be able to rise, with our dull Clogg of Flesh, from the Earth. <hi>Christianity</hi> is a Race, <hi>Heaven</hi> the Prize; we must run then, and fast, to obtain.</p>
+                  <p>As among the <hi>West-Indians</hi> some are reported by <hi>Acosta</hi> the Jesuite to be so quick in Running, that no Horse can keep pace with them; so we must be quick in our Pray<g ref="char:EOLhyphen"/>ers, that the Thoughts of the World may not overtake us. This World is the Wilderness, Heaven the <hi>Canaan,</hi> but it has no Sons of <hi>Ana<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k</hi> to keep us away; indeed it may be storm'd, and that may easily be done by the Vigour of your Prayers; for, since the days of <hi>John</hi> the Baptist, the Kingdom of Heaven suffers Violence, and the Violent take it by force of this spiritual praying Sword.</p>
+                  <p>
+                     <hi>3dly,</hi> Pray faithfully with full Hope and Relyance on God for the Fruits of them.</p>
+                  <p>As our <hi>Humility</hi> stands aloof, and knows its distance with the <hi>Publican,</hi> but <hi>Ardour, Jehu-</hi>like, drives furiously on towards Heaven; so <hi>Faith</hi> in Prayer compleats all; with <hi>Moses,</hi> it stands in the Gap, and closely joyns us in Union with God. The Gates of Heaven shall fly open to us, so we have this Oyl in our Lamps, to prepare for meeting Christ the Bridegroom. With <hi>Faith</hi> and <hi>Piety of Mind</hi> every Expression in our Prayers is acceptable to the Lord above, and brings us to Him; but if we regard <hi>Hypocrisie</hi> in our Hearts, the Lord will not hear us, nor come nigh our Dwelling. It is said, in <hi>Judah</hi> the Hand of
+<pb n="14" facs="tcp:152834:10"/> God was, to give them one Heart; so must we with sin<g ref="char:EOLhyphen"/>gleness of Heart pray unto God, that our Hearts be not double, that we may go unto Him as that Dove to <hi>Noah</hi>'s Ark, with unimaginable Sweetness and Joy, to repose our selves on his Mercy-seat: Thus if we do, we pray accor<g ref="char:EOLhyphen"/>ding to the Will of God; which if we follow, He shall hear us, and help our Infirmities. <hi>Balaam</hi> in a Fit of De<g ref="char:EOLhyphen"/>votion may cry out, <hi>O that I might dye the death of the Righteous, and that my last end might be like his!</hi> But this is hypocritical, neither sound nor rooted; whatsoever we do, we must do it sincerely, as unto the Lord, and not unto Men, knowing that of the Lord we shall receive our rich Inheritance. Our Prayers must have Heart and Root to grow and continue; and we, as <hi>Alceus</hi> in a contrary Case, who is said to have taken Arguments from every Season of the Year, for his Intemperance in Drinking; That the Spring requir'd it in sign of Joy; the Summer, to temper his Heat, and cool himself; that it was due to Autumn, as dedicated to the Vintage; and Winter requir'd it to expel Cold. So should we, I say, from all the Pas<g ref="char:EOLhyphen"/>sages of this Life, take occasion to pray unto God, in the time of Adversity, that He may help us; in the Season of Prosperity, that He has done it. Let none think with himself, God does not mind the passing over this Duty, nor see the other Sins we be at any time guilty of; for tho' a Man sit as close upon the Idols of his Heart as <hi>Ra<g ref="char:EOLhyphen"/>chael</hi> did upon her Father's Images, he may hide his Mer<g ref="char:EOLhyphen"/>cies from himself, but not his Sins from God. How great reason then has Man to mind his Business, do his Duty, especially this of <hi>Prayer,</hi> which is, as St. <hi>Austin</hi> calls it, a <hi>Spiritual Exercise,</hi> and says, <hi>It is so much the more accepted;</hi> but then it must be perform'd in Spirit, and in Truth.</p>
+                  <pb n="15" facs="tcp:152834:10"/>
+                  <p> But that I may not seem to forget the Occasion of this Day:</p>
+                  <p>As <hi>Prayer</hi> is our indispensible Duty at all times, it must consequently needs be so now: As it is of wonderful Power and Efficacy in Times of Troubles and Dangers to those that make the right use of them, so <hi>now especially</hi> have we no reason to neglect it in this proper Occasion, but han<g ref="char:EOLhyphen"/>dle well the great Duty. And as <hi>Fasting</hi> is always just<g ref="char:EOLhyphen"/>ly acknowledg'd to be its good Helpmate, so <hi>that</hi> is with good Consideration and Reason, by the Administrators of our Government, at this time annexed, when we are sur<g ref="char:EOLhyphen"/>rounded with Fears, and Terrors threaten us on every side. How many Enemies have we at home, and in our own Bosom, some being Malecontents of desperate Fortunes, who having consum'd their Estates by their Debaucheries, embrace any occasion to raise a new Fund for the main<g ref="char:EOLhyphen"/>tenance and support of these their ill ways; and these pre<g ref="char:EOLhyphen"/>sent they take to be the Times for their Purposes and De<g ref="char:EOLhyphen"/>signs to separate us, to ruine and divide what we have; therefore their Custom is, to kindle every Spark, and light it to a Flame, for our combustion, whilst we are otherwise busie at home and abroad, and not at leisure to mind their Intrigues. Others there are, whose Principles and Religion do <hi>allow</hi> them, <hi>lead</hi> them, <hi>exhort,</hi> and give <hi>Command</hi> to them, for our Ruine and Destruction, being <hi>Hereticks</hi> in their Account, and, as Stubble, fit for nought but the Fire. These are open and bare-fac'd Enemies, who I need not mention, and were never inclin'd to our Side and In<g ref="char:EOLhyphen"/>terest. Some likewise there are that are <hi>Achitophel</hi>'s, cun<g ref="char:EOLhyphen"/>ning Politicians, whose out-sides, like the Apples of <hi>Sodom</hi> and <hi>Gomorrah,</hi> seem fair to the View, but their inner parts are Ashes and Death to us-ward. To use a familiar Com<g ref="char:EOLhyphen"/>parison, they are like our Watermen, that look one way,
+<pb n="16" facs="tcp:152834:11"/> and row another; most dangerous Persons, that (like the little Creature in the Crocodile) grow, and eat our very Bowels, which have yearned with Compassion long to<g ref="char:EOLhyphen"/>wards them that hate us.</p>
+                  <p>But we are not only thus fetter'd at home, but abroad are engag'd in a most bloody and expensive War with a puissant Prince, the Absolute and Arbitrary Monarch of <hi>France,</hi> who flush'd with long Victories and Success against his unequal and weak Neighbours, and having by Policy, Power, and Fraud hugely encroach'd upon their Territo<g ref="char:EOLhyphen"/>ries, to the great enlargement of his own, seems to stand on the Tiptoes of Greatness, and be in the <hi>Zenith</hi> of his Power, not only threatning his Confines, but all <hi>Europe</hi> with his Strength.</p>
+                  <p>The Sun of his Glory seems to have risen to its full height, to have touch'd the Vertical Point, and now be up<g ref="char:EOLhyphen"/>on its declension: The Wishes of all good Christians are, That it may be so, that he fall to his former station, set in his due Horizon, and be reduc'd to his primitive Right; the Hopes of all <hi>Europe</hi> in effecting which, are solely His Majesty of <hi>Great Britain.</hi>
+                  </p>
+                  <p>To which purpose, and the humbling of whom, our <hi>Joshua</hi> is gone over <hi>Jordan,</hi> to assist the Weak, and set the Afflicted free: He is now at the head of the Army, and willing to expose his sacred Person to the Thunderbolts of the roaring Cannon, the Lightnings of Bombs and Grana<g ref="char:EOLhyphen"/>does, the hailing showrs of devouring Lead-Balls, the edge of the Sword, and all other cruel Instruments of merciless War the Devil can invent, or Man do Mischief with. On this good Account he will rather, with <hi>Cato,</hi> chuse to die, than the Allies <hi>continue,</hi> and we <hi>be brought</hi> under <hi>Slavery</hi> and <hi>Tyranny.</hi> Methinks I hear him say, <hi>Let the Great</hi> Turk <hi>by Land, and the other</hi> Turk <hi>by Sea, the one with his Legi<g ref="char:EOLhyphen"/>ons, the other with his Ships, cover both the Elements,</hi> Terra
+<pb n="17" facs="tcp:152834:11"/> firma, <hi>and the inconstant watery one, so as to leave a small Point for him to stand on, and they unite their Endeavours to our Ruin and Destruction, he will, under God, deliver his People, or dye in the Good Cause.</hi> A Majesty of so high and undaunted Courage, like the <hi>Fabii,</hi> he may be outmatch'd but never overcome: And a Prince so generous and good, that he, who has ventur'd his Life once to redeem us from <hi>Popery, Fire</hi> and <hi>Faggots,</hi> is now again ready to lay it down in this War, and, for the Safety of <hi>Europe,</hi> to sa<g ref="char:EOLhyphen"/>crifice <hi>his own.</hi> He considers that, with <hi>David,</hi> he must sleep in the Bed of his Glorious Ancestors, that are gone to Everlasting Rest before him, and rejoyces to breath his last in so glorious a Good. As a stout Soldier and prudent <hi>Generalissimo,</hi> he acts, and commands and courts the most terrible Occasions of shewing forth his Virtue, in ambiti<g ref="char:EOLhyphen"/>on to make all safe, rather than himself secure.</p>
+                  <p>Can we then not love so good a Prince? Shall we not humble ourselves before God, that he may succeed? Shall we not pray, that he may be victorious? and in Tears mourn till we see our Shield come home again in Safety? For,</p>
+                  <p>Tho' our Armies be compleat and strong, our Prince that commands them active and prudent, yet there is an Uncer<g ref="char:EOLhyphen"/>tainty in War; the Lord of Hosts gives the Victory to whom he pleases, and sometimes suffers the <hi>Philistine</hi> to triumph for the Sins of his <hi>Israel:</hi> And this may be our Lot; for we have great cause to fear, lest our own Sins fight against ourselves, and our Wickedness be our Ruin.</p>
+                  <p>What greater reason therefore have we to cast our Sins behind us, and not provoke thereby the Holy One to In<g ref="char:EOLhyphen"/>dignation, to give us up as a Prey to the Teeth of our Adversary: All that is dear and near to us, lies at the Stake; our Laws, Lives, and Liberties, our Wives and Children, our Nation, our King, and Religion are all at this
+<pb n="18" facs="tcp:152834:12"/> time in danger, if the Lord be not with us. With what Earnestness then should we pray? How should we in Sad<g ref="char:EOLhyphen"/>ness mourn, till we by good Success, and our Deliverance, find that the Lord is on our side.</p>
+                  <p>At this time we may mourn, and say of Laughter, <hi>It is mad;</hi> and of Mirth, <hi>What hast thou to do with us? get thee behind.</hi> There is nothing now should be musical but Sighs and Groans, no Song in tune but the <hi>Lamentation of a Sinner.</hi> As for our Harp, be thou hung up, or, as <hi>Job</hi> speaks, turned into mourning, and our Organ into the <hi>voice of them that weep;</hi> with the Mourner shall we eat Ashes, like Bread, and mingle our Drink with Tears, till he that is gone from us come; till the King, with whom are our Hearts, and all that we have, come again in Safety to our comfort.</p>
+                  <p>We have reason to mourn, because we are in danger, be we never so strong, but no just cause to complain of our Burden, till we find the weight of its heaviness. There are some intolerable People, that are still complaining of the Badness of the Times, to sow Division among us, and breed Confusion; which God the Lord in his Goodness avert, and take away these wicked men from us, that our <hi>Kingdom may be establish'd in Righteousness.</hi>
+                  </p>
+                  <p>God be thank'd, the upper Region of our Nation admits no such Fumes and Pestilential Vapours, these are form'd below, in the Breasts of ordinary, ignorant, malicious, and designing Men, whose Interest sways them more than their Reason, and Superstition rather than Religion.</p>
+                  <p>But what ill case are we in, that we should complain, when every one lives under his own Vine, when we have Peace in our Dominions, no Plague nor Famine in our Land, but Plenty of Corn in our Barns, Plenty of Grass and Corn in the Fields; What is there we could desire more▪ What if our Condition were worse than it is?
+<pb n="19" facs="tcp:152834:12"/> Good and Wise Men consider, they can never pay too much for their Lives, Liberties, and Religion, which are all, under God, by this War, preserv'd hitherto; and tho' the Expences of its length be great, yet, Thanks be to the Lord's Bounty, we are not poor.</p>
+                  <p>But to what purpose, I say, are our Complaints, unless to divide us? They will never profit us, nor do us any Service, they may well hinder us, and stop our Cries, that the Lord may not hear them: Is it not better to trust in the Lord, and rely on him, cheerfully to submit unto his Will, and patiently expect his gracious time of freedom from all our Troubles, wait on him, who can turn our Water into Wine, give a rich Suit for Sackcloth, Beauty for Ashes, and a Day of Praise for this of our Humilia<g ref="char:EOLhyphen"/>tion?</p>
+                  <p>God the Lord, who has saved us from the <hi>Invincible Armada,</hi> and destroy'd it; who deliver'd us from that Hellish Conspiracy, whereby King and Parliament, the Head and principal Members of this Nation, were all to be blown up at one devilish blast; and has lately preser<g ref="char:EOLhyphen"/>ved the <hi>KING,</hi> with <hi>Ʋs</hi> in <hi>Him,</hi> from that horrid and accursed <hi>Assassination;</hi> is still able to save and deliver us from the Hands of our Enemies, <hi>whose Mercies are cruel,</hi> and give them up to our Power, or send His own Angel to scatter and slay them, that their dead Bodies be Meat to the Fowls of the Air, and Beasts of the Earth, and we secur'd from the Snares of the Hunter.</p>
+                  <p>But this the LORD is not like to do, except we <hi>humble</hi> ourselves before Him, for our Sins and Transgressions; He is not like to go forth with our Fleets and Armies, nor suffer what we take in hand to prosper, without calling faithfully upon His Holy Name.</p>
+                  <pb n="20" facs="tcp:152834:13"/>
+                  <p> Wherefore, as it is not only our bounden Duty, but Interest, to do it, let us pray as we ought unto the Lord, that He may go out with our Fleets and Armies; that He may bless His People, and make us Victorious, that the King may ride in Triumph, with Acclamations of great Joy, every one of his faithful Subjects being glad, and cheerfully saying,</p>
+                  <closer>GOD Save the KING.</closer>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
